@@ -1,0 +1,11 @@
+{
+  "name": "vigilante",
+  "expo": {
+    "name": "vigilante",
+    "slug": "vigilante",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
